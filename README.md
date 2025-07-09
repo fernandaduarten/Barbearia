@@ -4,7 +4,7 @@ Briefing do Projeto Barbearia
 - 1- Conte-me sobre o negócio de sua empresa, seu objetivo e o mercado onde atua:
 > atuação do meu projeto é no ramo de Barbearia, onde oferecemos diversos serviços capilares e faciais.
 - 2- Que tipo de produtos/serviços sua empresa oferece?
-> corte de cabelo, desinger de barbar e sombrancelha, além de tratamentos.
+> corte de cabelo, design de barba e sombrancelha, além de tratamentos.
 - 3- O que diferencia você de seus concorrentes?
 > Preços acessivéis, localização de fácil acesso, variedade de serviços, profissionais de qualidade, acessibilidade local para pessoas com deficiência e TEA
 - 4- Descreva abaixo o público alvo do seu negócio?
