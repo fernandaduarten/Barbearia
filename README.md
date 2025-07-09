@@ -18,3 +18,11 @@ A atuação do meu projeto é no ramo de Barbearia, onde oferecemos diversos ser
   Não, gostaria de criar uma identidade visual da empresa, criar um novo logotipo.
 - 8- Descreva as ferramentas de marketing utilizadas atualmente?
   Redes sociais, divulgação com pafletos e cartões e radios.
+- 9- Qual o principal objetivo do seu website?
+  Apresentar informações do local e serviços oferecidos pelo estabelecimento e faciltar agendamentos e pagamentos dos clientes.
+- 10- Você pretende que o site esteja pronto em torno de:
+   180 dias.
+- 11- Se possível, informe o nome e o website de seus principais concorrentes.
+  https://www.confrariadabarba.com.br/
+  
+  
