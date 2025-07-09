@@ -10,7 +10,7 @@ Briefing do Projeto Barbearia
 - 4- Descreva abaixo o público alvo do seu negócio?
 > Publico geral, oferecemos serviços para o publico masculino e feminino de todas as idades.
 - 5- Descreva abaixo os conteúdos que deverão ser inseridos em seu site?
-> historia e objetivo da empresa, Login para funcionarios, login para clientes, imagens do ambientes, agendamentos com calendario e horarios, aba de serviços oferecidos,
+> historia e objetivo da empresa, Login para funcionarios, login para clientes, imagens do ambientes, agendamentos com calendario e horarios, layout de serviços oferecidos,
   pagamentos, mapa com localização, telefone e email para contato.
 - 6- Qual a Imagem a ser transmitida para os usuários?
 > Modernidade e inclusão, cores mais clean no ambiente adulto, e cores mais vibrantes no ambiente infantil
